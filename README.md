@@ -6,7 +6,7 @@ This is the **YelpCamp** application, a full-stack web app for campgrounds where
 
 ## **Live Demo**
 You can view the live project here:  
-[Live Deployment Link](https://your-render-app-url)
+[Live Deployment Link](https://yelpcamp-cjsc.onrender.com)
 
 ---
 
